@@ -1,0 +1,17 @@
+# Python gereksiz dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortam
+venv/
+.venv/
+env/
+.env
+
+# Veri setleri (Her seferinde taze çektiğimiz için yüklemeye gerek yok)
+dyd_proje_veriseti.csv
+
+# IDE ayar dosyaları
+.idea/
+.vscode/
